@@ -15,6 +15,7 @@ TODO :
 
 ### DAY 2 : 15_10_15
 
+moved the mantra api outside api file. git versionning.
 * require VS require_relative ??
 
 ## Roadmap
