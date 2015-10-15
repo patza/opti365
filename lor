@@ -1,0 +1,20 @@
+[31mF[0m
+
+Failures:
+
+  1) Opti365::API should return 200 OK
+     [31mFailure/Error: expect(last_response.status).to eq(500)[0m
+     [31m  [0m
+     [31m  expected: 500[0m
+     [31m       got: 200[0m
+     [31m  [0m
+     [31m  (compared using ==)[0m
+     [36m# ./spec/spec_api.rb:19:in `block (2 levels) in <top (required)>'[0m
+
+Finished in 0.07124 seconds (files took 0.56606 seconds to load)
+[31m1 example, 1 failure[0m
+
+Failed examples:
+
+[31mrspec ./spec/spec_api.rb:17[0m [36m# Opti365::API should return 200 OK[0m
+
